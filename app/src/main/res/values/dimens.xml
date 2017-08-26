@@ -35,4 +35,5 @@
     <dimen name="limitY_usernametoolbarprofile">-250dp</dimen>
     <dimen name="margintooptargety_usernametoolbarprofile">0dp</dimen>
     <dimen name="grid_layout_margin">10dp</dimen>
+    <dimen name="WelcomeTextSize">30px</dimen>
 </resources>
