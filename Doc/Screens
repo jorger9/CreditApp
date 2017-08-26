@@ -1,0 +1,27 @@
+Screens to develop
+
+1.- Login
+2.- Dashboard
+    Conains
+        User name,
+         Notifications
+         Last activity
+         Button (View my transactions) Which leads to
+            [HistoryActivity]
+                Contains all the transactions
+2.- HistoryActivity
+3,- Mainactivity
+        Lendings
+        Loan
+        Add my bank account
+4.- Loans
+5.- Offered Credits
+        FAB (+) Add ne Credit / Loan
+6.- Include Other screens
+
+
+
+WORK Items:;
+
+Yorch Start Credits Screens
+
