@@ -27,6 +27,13 @@ public class LoginActivity extends AppCompatActivity {
         login            = (Button)findViewById(R.id.login);
         progressBarLogin = (ProgressBar)findViewById(R.id.progressbarlogin);
 
+        login.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                goHome();
+            }
+        });
+
 
         hideProgressBar();
         //goHome();

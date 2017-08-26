@@ -72,7 +72,7 @@ public class Dashboard extends Fragment {
         View view = inflater.inflate(R.layout.fragment_dashboard, container, false);
 
         //Find the +1 button
-        mPlusOneButton = (PlusOneButton) view.findViewById(R.id.plus_one_button);
+     //   mPlusOneButton = (PlusOneButton) view.findViewById(R.id.plus_one_button);
 
         return view;
     }
