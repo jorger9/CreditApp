@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dashboard">
+
+    <ImageView
+        android:src="@drawable/common_google_signin_btn_icon_dark"
+        android:scaleType="fitCenter"
+        android:layout_gravity="top|center"
+        android:layout_height="250px"
+        android:layout_width="250px"/>
+
+    <TextView
+        android:id="@+id/txtVWelcome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textStyle="italic"
+        android:text="@string/WelcomeText"
+        android:textSize="@dimen/WelcomeTextSize"/>
+
+</FrameLayout>

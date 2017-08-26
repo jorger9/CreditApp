@@ -1,0 +1,16 @@
+Meeting Date: 2017-08-26 09:41
+    -Started with project design
+    -Working on first 7 Screens
+        AddAcount
+        Login
+        Dashcboard
+            *
+            *
+            *
+        History     [Shows the history]
+        Credits     [User can offer credit]
+        Loans       [User can ask for loans]
+        Transaction [Allow user to make a credit / Loan ]
+
+
+
