@@ -33,6 +33,7 @@ public class LoginPresenterImpl implements LoginPresenter {
     @Override
     public void loginSuccess() {
         loginView.goHome();
+        loginView.enableInputs();
         loginView.hideProgressBar();
 
     }

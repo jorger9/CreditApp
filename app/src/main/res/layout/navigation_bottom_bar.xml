@@ -6,4 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="56dp"
     android:layout_gravity="bottom|end"
+    android:background="@color/colorPrimary"
+    app:itemIconTint="@drawable/navigation_bottom_selector"
+    app:itemTextColor="@drawable/navigation_bottom_selector"
     app:menu="@menu/navigation_items" />

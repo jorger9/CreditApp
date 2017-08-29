@@ -16,4 +16,6 @@
     <string name="menu_signout">Cerrar sesión</string>
     <string name="menu_about">Acerca de</string>
     <string name="WelcomeText">Bienvenido</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_transactions">Transactions</string>
 </resources>

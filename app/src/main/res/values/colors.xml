@@ -11,4 +11,7 @@
 
     <color name="editTextColorWhite">#FFFFFF</color>
     <color name="editTextColorBlack">#000000</color>
+
+    <color name="tabSelected">#F4F0EF</color>
+
 </resources>

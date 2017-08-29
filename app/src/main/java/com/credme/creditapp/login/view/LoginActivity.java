@@ -53,7 +53,6 @@ public class LoginActivity extends AppCompatActivity implements LoginView{
 
 
         hideProgressBar();
-        //goHome();
     }
 
     private void signIn(String userName, String password) {

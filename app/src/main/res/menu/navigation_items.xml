@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
     <item android:id="@+id/action_search"
-        android:title="Hola"
-        android:icon="@mipmap/ic_launcher" />
+        android:title="@string/tab_home"
+        android:icon="@drawable/ic_home" />
     <item android:id="@+id/action_settings"
-        android:title="Hola"
-        android:icon="@mipmap/ic_launcher" />
+        android:title="@string/tab_transactions"
+        android:icon="@drawable/ic_transaction" />
     <item android:id="@+id/action_navigation"
         android:title="Hola"
-        android:icon="@mipmap/ic_launcher" />
+        android:icon="@mipmap/ic_launcher"
+        android:iconTint="@color/colorPrimaryDark"
+        />
 </menu>
